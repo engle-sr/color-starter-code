@@ -28,7 +28,7 @@ header {
 /*---------- CONTENT AREA ----------*/
 
 .col-3 {
-  width: 100%;
+  width: 50%;
   height: 320px;
   float: left;
 }
@@ -80,6 +80,11 @@ footer {
   }
   
 }
+.col-3 {
+  width: 33.3%;
+}
+}
+
 
 
 /*---------- Desktops ----------*/
